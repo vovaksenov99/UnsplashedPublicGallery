@@ -1,1 +1,2 @@
-# unsplashedPublicGallery
+# UnsplashGallery
+
